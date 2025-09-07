@@ -1,0 +1,22 @@
+# Python bytecode and cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variable files (usually contain secrets)
+.env
+.env.local
+
+# Jupyter notebooks and checkpoints
+*.ipynb
+.ipynb_checkpoints/
+
+# Logs and OS clutter
+*.log
+.DS_Store
+Thumbs.db
